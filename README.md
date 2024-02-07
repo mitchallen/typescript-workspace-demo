@@ -1,4 +1,4 @@
-typescript-workspace-draft
+typescript-workspace-demo
 ==
 
 # THIS IS A WORK IN PROGRESS 
