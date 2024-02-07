@@ -1,4 +1,5 @@
-// step-definitions/add.steps.ts
+// Author: Mitch Allen
+// File: sum.steps.ts
 
 import { Given, When, Then } from '@cucumber/cucumber';
 import { sum } from '../../src';

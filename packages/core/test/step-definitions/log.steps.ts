@@ -1,4 +1,5 @@
-// step-definitions/add.steps.ts
+// Author: Mitch Allen
+// File: log.steps.ts
 
 import { Given, When, Then } from '@cucumber/cucumber';
 import { log } from '../../src';
