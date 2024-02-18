@@ -1,6 +1,14 @@
 typescript-workspace-demo
 ==
 
+## USE THE TEMPLATE INSTEAD
+
+For a more up to date example I've created a GitHub template:
+
+* https://github.com/mitchallen/typescript-workspace-template
+
+* * *
+
 # THIS IS A WORK IN PROGRESS 
 
 Some things may, and probably will change.
